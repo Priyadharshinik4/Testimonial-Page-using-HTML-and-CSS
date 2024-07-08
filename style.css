@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: orangered;
+}
+.container h1{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+.content{
+    display: flex;
+}
+.content1{
+    display: flex;
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+    align-items: center;
+}
+.container1 img{
+    width: 120px;
+    height: 150px;
+    margin-left: 20px;
+}
+.container2{
+    padding: 20px;
+}
