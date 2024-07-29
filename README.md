@@ -1,2 +1,2 @@
 # Testimonial-Page
-Created a Testimonial Page using HTML and CSS
+This project showcases a responsive and visually appealing testimonial page built using HTML and CSS. 
